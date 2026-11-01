@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alva
 
-<!--
-**alvawilliamkingsleynguyen/alvawilliamkingsleynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at **RMIT University**, building toward a career in **AI Security**
 
-Here are some ideas to get you started:
+## What I'm working on
+- Studying machine learning and AI through my degree
+- Teaching myself cybersecurity through CTFs and hands-on labs
+- Learning how AI systems can be attacked and defended
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Python
+- Linux and networking basics
+- Web security fundamentals
+
+## Goals
+- Compete in CTFs and publish writeups
+- Research AI security topics like prompt injection and adversarial examples
+
+## Get in touch
+- Email: awkn.cs@gmail.com
